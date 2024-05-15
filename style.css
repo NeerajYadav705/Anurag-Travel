@@ -92,6 +92,9 @@ section.home {
     cursor: pointer;
     display: none;
 }
+.home .home-box .logo  img{
+    width: 10vh;
+}
 
 .home .home-box nav .logo .bar:hover {
     color: var(--green-color);
