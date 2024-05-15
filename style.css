@@ -13,7 +13,7 @@
 
 :root {
     --dark-green: #112a34;
-    --green-color: #004047;
+    --green-color: #FF204E;
     --white-color: #fff;
 }
 
@@ -650,7 +650,7 @@ footer {
 }
 
 footer .footer {
-    background: var(--dark-green);
+    background: #00224D;
     border-radius: .7rem;
     padding: 6rem 7rem;
     padding-bottom: 1rem;
